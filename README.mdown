@@ -1,5 +1,8 @@
-TTMultiSelectTable - Internet-aware Three20 tables that allow multiple selections
+TTMultiSelectTable
 =========================
+
+Internet-aware Three20 tables that allow multiple selections
+--------
 
 Version: 0.1
 
@@ -11,7 +14,7 @@ Written for a slightly old version of Three20 (May 31, 2010). I intend to write 
 in the future.
 
 Known bugs: when the table is refreshed and new tweets are loaded, sometimes the offset isn't calculated 
-correctly. The logic to calculate it isn't totally sound.
+correctly. The logic to calculate the offset isn't totally sound.
 
 
 TTTwitter Example Project
