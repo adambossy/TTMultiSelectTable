@@ -1,3 +1,18 @@
+TTMultiSelectTable - Internet-aware Three20 tables that allow multiple selections
+=========================
+
+Version: 0.1
+
+Created by: Adam Bossy
+
+Built on the TTTwitter Example Project. The ReadMe for it is below and needs to be updated accordingly. 
+
+Written for a slightly old version of Three20 (May 31, 2010). I intend to write it for the latest version
+in the future.
+
+Known bugs: when the table is refreshed and new tweets are loaded, sometimes the offset isn't calculated 
+correctly. The logic to calculate it isn't totally sound.
+
 
 TTTwitter Example Project
 =========================
